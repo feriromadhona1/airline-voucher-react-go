@@ -1,0 +1,25 @@
+# Binaries
+/backend/server
+/backend/airline-voucher
+
+# Dependencies
+/frontend/node_modules
+/frontend/dist
+
+# Environment
+/frontend/.env
+
+# SQLite local databases
+/backend/*.db
+/backend/*.db-journal
+/backend/data/*.db
+/backend/data/*.db-journal
+/backend/vouchers.db
+
+# OS / IDE
+.DS_Store
+*.log
+.idea
+.vscode
+.zed
+.cursor
